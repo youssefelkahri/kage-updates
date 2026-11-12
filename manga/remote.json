@@ -1,7 +1,9 @@
 {
-  "v": 1,
+  "v": 2,
   "homes": {},
   "sources": [],
-  "off": [],
+  "off": [
+    "dilar"
+  ],
   "default": "mangalek"
 }
