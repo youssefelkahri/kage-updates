@@ -1,9 +1,9 @@
 {
-  "v": 2,
+  "v": 3,
   "homes": {},
   "sources": [],
   "off": [
-    "dilar"
+    "asgardscans"
   ],
   "default": "mangalek"
 }
