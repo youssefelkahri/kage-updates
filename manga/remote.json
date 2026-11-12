@@ -1,11 +1,12 @@
 {
-  "v": 5,
+  "v": 6,
   "homes": {},
   "sources": [],
   "off": [
     "asgardscans",
     "dilar",
-    "areamanga"
+    "areamanga",
+    "hijala"
   ],
   "default": "mangalek"
 }
