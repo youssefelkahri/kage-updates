@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "disabled": true,
+  "requireCode": false,
+  "message": "",
+  "minCode": 0,
+  "graceDays": 3,
+  "blockedDevices": [],
+  "codes": {}
+}
