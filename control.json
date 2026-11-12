@@ -1,7 +1,7 @@
 {
   "v": 1,
   "disabled": false,
-  "requireCode": true,
+  "requireCode": false,
   "message": "",
   "minCode": 0,
   "graceDays": 3,
