@@ -12,7 +12,9 @@
       "max": 1,
       "blocked": false,
       "created": 1794532857839,
-      "devices": {}
+      "devices": {
+        "862aa68fd304": "Xiaomi 2509BRP2DG"
+      }
     }
   }
 }
