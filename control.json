@@ -15,6 +15,13 @@
       "devices": {
         "862aa68fd304": "Xiaomi 2509BRP2DG"
       }
+    },
+    "5594bdb37eb96786ed6b0b35a797ce2e1c1b05033354cd463e3fd5108d48e251": {
+      "name": "amjad",
+      "max": 1,
+      "blocked": false,
+      "created": 1794613592140,
+      "devices": {}
     }
   }
 }
