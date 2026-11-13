@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "disabled": false,
+  "requireCode": false,
+  "message": "",
+  "minCode": 0,
+  "graceDays": 3,
+  "blockedDevices": [],
+  "codes": {
+    "c5843c52b8ddcc1ec832b15f99c7de16273c3e97110fcbb7df3f78efcc35f41d": {
+      "name": "hraira novel",
+      "max": 1,
+      "blocked": false,
+      "created": 1794532857839,
+      "devices": {}
+    }
+  }
+}
