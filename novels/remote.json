@@ -1,7 +1,8 @@
 {
   "default": "novltime",
-  "v": 4,
+  "v": 5,
   "off": [
-    "cenele"
+    "cenele",
+    "seanovel"
   ]
 }
