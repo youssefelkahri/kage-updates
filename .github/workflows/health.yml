@@ -1,9 +1,8 @@
-name: Sources health
+name: Index backup cleanup
 
-# كل أسبوع (الاثنين 03:17) + يدوياً. الفحص اليومي يحذف النسخ الاحتياطية المنتهية فقط.
+# يومياً: يحذف النسخ الاحتياطية المؤقتة للفهرس (Kage وKage Novels). فحص المصادر انتقل إلى ShaDo-sources.
 on:
   schedule:
-    - cron: '17 3 * * 1'
     - cron: '41 4 * * *'
   workflow_dispatch:
 
@@ -11,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: health
+  group: cleanup
   cancel-in-progress: false
 
 jobs:
@@ -27,28 +26,3 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: node tools/cleanup.js
 
-  health:
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 3 * * 1'
-    needs: cleanup
-    runs-on: ubuntu-latest
-    timeout-minutes: 90
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - name: Install Chromium
-        run: |
-          npm init -y >/dev/null
-          npm install playwright@1.48.2 >/dev/null
-          npx playwright install --with-deps chromium
-      - name: Check and self-heal sources
-        run: node tools/health.js
-      - name: Commit changes
-        run: |
-          git config user.name "kage-bot"
-          git config user.email "kage-bot@users.noreply.github.com"
-          git add manga/remote.json manga/health.json
-          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
-          git commit -m "health: weekly source check"
-          git push
