@@ -1,4 +1,7 @@
 {
   "default": "novltime",
-  "v": 1
+  "v": 2,
+  "off": [
+    "cenele"
+  ]
 }
