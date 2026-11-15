@@ -1,0 +1,16 @@
+name: Delete a bad release
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: tag to delete
+        required: true
+permissions:
+  contents: write
+jobs:
+  del:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release delete "${{ inputs.tag }}" -R "$GITHUB_REPOSITORY" --cleanup-tag --yes
