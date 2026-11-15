@@ -5,3 +5,8 @@
 - **تحميل التطبيق:** [آخر إصدار](https://github.com/youssefelkahri/kage-updates/releases/latest)
 - `control.json`: ملف التحكم (تديره لوحة المالك داخل التطبيق، لا تعدّله يدوياً).
 - `manga/`: تحديثات المصادر التي تصل للتطبيق دون APK جديد.
+
+## Scripta
+
+تطبيق السكريبت (مشرفة الاستمرارية). الإصدارات بوسم `scripta-vX.Y.Z` (ليست "latest" حتى لا تختلط بـ Kage).
+- `scripta/control.json`: ملف تحكم Scripta (تديره لوحة المالك داخل التطبيق).
