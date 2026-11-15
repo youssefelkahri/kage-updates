@@ -1,11 +1,11 @@
 {
-  "code": 44,
-  "name": "0.39.0",
+  "code": 45,
+  "name": "0.40.0",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "8d015d41f6263fb5e6850b6af332a010603ddb7b5a965054f186e79a28c7264e",
+  "sha256": "d221b3f27b43aabe8a113bac3bce84184bfd6ac8f124015903bc121b59b02d53",
   "notes": [
-    "نسخة التلفاز: التنقل بالريموت",
-    "المشغّل بأزرار الريموت",
-    "البحث بالصوت من الريموت"
+    "التلفاز: أحجام طبيعية وأيقونة جديدة",
+    "رئيسية التلفاز تتبع العمل المحدد",
+    "مشغّل خاص بالتلفاز"
   ]
 }
