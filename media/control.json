@@ -6,15 +6,5 @@
   "minCode": 0,
   "graceDays": 3,
   "blockedDevices": [],
-  "codes": {
-    "25a2615f3686cf3e705ea95890fd1c173b38e973addfc978e1e3da8d35357f07": {
-      "name": "ana",
-      "max": 1,
-      "blocked": false,
-      "created": 1794718161681,
-      "devices": {
-        "1f33cfcbf3b5": "Xiaomi 24116RACCG"
-      }
-    }
-  }
+  "codes": {}
 }
