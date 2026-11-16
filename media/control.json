@@ -12,7 +12,9 @@
       "max": 1,
       "blocked": false,
       "created": 1794718161681,
-      "devices": {}
+      "devices": {
+        "1f33cfcbf3b5": "Xiaomi 24116RACCG"
+      }
     }
   }
 }
