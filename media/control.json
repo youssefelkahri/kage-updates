@@ -1,16 +1,7 @@
 {
   "v": 1,
   "x": {
-    "sk": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAofueOXOmID+\/xsy\/Nw6Yf61mSDRJMd7t7s81RChbzj1uWRPu+PtYNhTFtS96W2FPa4VLp4yJVhmRtUKNJ+XMD1YE8Dp7W3fyFhGILlaj7qcYDoyr4Ch0tafTQKjik1Qnx\/70pQMNHMLJphtEZsdBo2aKan7ErBVLU7Q79o5JpQwRUlw\/WA4gc5sxFCQ9V4I0hUUt6PXY5d3AHepNsIcs2rIDnOaqbVCA3SBJ2\/HGkfk32wvZ20Dta9YAJqOJKGtGaSRaBaOP34c6Zi96PCZnCE4Mo9oTYQmyDSJsYN35\/lh89x39m3BvjUUjwx8yoTSNmuYXKrSIuhbDxlehH8kPFQIDAQAB",
-    "poll": {
-      "id": "mwjghxqy",
-      "q": "اي ميزة نضيف",
-      "o": [
-        "دعم للبث المباشر",
-        "دعم للافلام الجديدة مع ترجمة خارجية",
-        "الله يهديك تا حاجة من هاد شي غير تنجرب هه"
-      ]
-    }
+    "sk": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAofueOXOmID+\/xsy\/Nw6Yf61mSDRJMd7t7s81RChbzj1uWRPu+PtYNhTFtS96W2FPa4VLp4yJVhmRtUKNJ+XMD1YE8Dp7W3fyFhGILlaj7qcYDoyr4Ch0tafTQKjik1Qnx\/70pQMNHMLJphtEZsdBo2aKan7ErBVLU7Q79o5JpQwRUlw\/WA4gc5sxFCQ9V4I0hUUt6PXY5d3AHepNsIcs2rIDnOaqbVCA3SBJ2\/HGkfk32wvZ20Dta9YAJqOJKGtGaSRaBaOP34c6Zi96PCZnCE4Mo9oTYQmyDSJsYN35\/lh89x39m3BvjUUjwx8yoTSNmuYXKrSIuhbDxlehH8kPFQIDAQAB"
   },
   "disabled": false,
   "requireCode": false,
