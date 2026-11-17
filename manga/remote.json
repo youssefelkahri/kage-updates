@@ -1,0 +1,15 @@
+{
+  "v": 9,
+  "homes": {},
+  "sources": [],
+  "off": [
+    "asgardscans",
+    "dilar",
+    "areamanga",
+    "hijala",
+    "stellarsaber",
+    "procomic",
+    "detectiveconanar"
+  ],
+  "default": "mangalek"
+}

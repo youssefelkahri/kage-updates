@@ -1,0 +1,10 @@
+{
+  "code": 92,
+  "name": "0.68.0",
+  "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
+  "sha256": "da8e73c3df7e678e053e488072c212f4b7fa82a74df31afa095d6e78ed8f3c7a",
+  "notes": [
+    "إعادة بناء كاملة للواجهة بتصميم جديد: الرئيسية، صفحة العمل، البحث، المكتبة، حسابي",
+    "اللوح يستعمل التصميم نفسه، وحذف الواجهات القديمة"
+  ]
+}

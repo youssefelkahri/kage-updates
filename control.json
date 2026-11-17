@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "disabled": false,
+  "requireCode": true,
+  "message": "",
+  "minCode": 0,
+  "graceDays": 3,
+  "blockedDevices": [],
+  "codes": {
+    "1296fe2098842200fd61d0aaa87076a623740940058993e92ea8428f31535802": {
+      "name": "hraira",
+      "max": 1,
+      "blocked": false,
+      "created": 1794485759950,
+      "devices": {
+        "862aa68fd304": "Xiaomi 2509BRP2DG"
+      }
+    }
+  }
+}

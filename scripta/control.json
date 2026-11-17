@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "disabled": false,
+  "requireCode": false,
+  "message": "",
+  "minCode": 0,
+  "graceDays": 7,
+  "blockedDevices": [],
+  "codes": {
+    "62606ad18d4c30a9479cfcc9f196f53cd9c0797083174fa36973bd10500365b6": {
+      "name": "sanae",
+      "max": 1,
+      "blocked": false,
+      "created": 1794718556644,
+      "devices": {}
+    }
+  }
+}
