@@ -1,7 +1,7 @@
 {
-  "code": 38,
-  "name": "0.17.0",
+  "code": 51,
+  "name": "0.19.3",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "bea06a950aa11ca8297f0b03170d62bb861beb13890941048758dd0ba6bc7758",
-  "notes": "الرئيسية وصفحة العمل بجزأين (الافتراضي والزجاجي)، قوائم المشغل الجديدة، متصفح جديد، زر الموقع، إصلاح Cloudflare للإضافات، تلفاز الافتراضي بقائمة علوية."
+  "sha256": "2401afd047636393bd29fa16f23c5cb9f9349daab8b15406fa008e1b5f2cc5d7",
+  "notes": "مشغّل SkyStream افتراضياً مع اختيار الشكل، قائمة ترجمة جديدة، الشريط العائم وميزات SkyStream في كل الثيمات، إصلاحات فاصل، MovieBox يختار Arabic Sub أولاً."
 }
