@@ -1,7 +1,7 @@
 {
-  "code": 29,
-  "name": "0.13.1",
+  "code": 30,
+  "name": "0.13.2",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "ac0e0b14d2c19d6f5bf76a39068cd4152677fda30d14bdeef176a3ec4f54622d",
-  "notes": "إصلاح التوقف عند المتابعة، إشعارات الحلقات الجديدة والجدول، تقييم الحلقات والحشو، صفحة الممثل، إحصائياتي، اقترح لي، إعدادات المصادر الكاملة."
+  "sha256": "4a0138909bc881c7f4edb8230c9fa103cac9fc5ed50daf87fb6e40e7ca29f14f",
+  "notes": "البث المباشر يعمل من جديد."
 }
