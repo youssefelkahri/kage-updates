@@ -1,7 +1,7 @@
 {
-  "code": 51,
-  "name": "0.19.3",
+  "code": 52,
+  "name": "0.19.4",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "2401afd047636393bd29fa16f23c5cb9f9349daab8b15406fa008e1b5f2cc5d7",
-  "notes": "مشغّل SkyStream افتراضياً مع اختيار الشكل، قائمة ترجمة جديدة، الشريط العائم وميزات SkyStream في كل الثيمات، إصلاحات فاصل، MovieBox يختار Arabic Sub أولاً."
+  "sha256": "f18dea10bf087e7f37a283b7eceff94afe34521696bf738adb10f6a97c1bdba5",
+  "notes": "التحديث صار من داخل التطبيق: تنزيل مع شريط تقدم ثم التثبيت مباشرة."
 }
