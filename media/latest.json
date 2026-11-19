@@ -1,7 +1,7 @@
 {
-  "code": 136,
-  "name": "0.91.3",
+  "code": 137,
+  "name": "0.91.4",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "4fdd67bd7c3d141e930fc49cc3568c581e9e7ad755b395a2a5236f54258a3a3e",
-  "notes": "التلفاز: صفحة العمل تفتح الحلقات كقائمة افتراضياً، ويُحفظ الشكل الذي تختاره؛ الإعدادات فيها الأشكال الثلاثة."
+  "sha256": "79c9de635acab536a7352ca2d54af56e6d9c822555b5a7997833d49963835557",
+  "notes": "المشغّل يبدأ بنسخة الترجمة العربية (arabic sub) قبل الدبلجة، ثم الصوت الأصلي."
 }
