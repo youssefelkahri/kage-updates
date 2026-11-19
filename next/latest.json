@@ -1,7 +1,7 @@
 {
-  "code": 52,
-  "name": "0.19.4",
+  "code": 55,
+  "name": "0.19.7",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "f18dea10bf087e7f37a283b7eceff94afe34521696bf738adb10f6a97c1bdba5",
-  "notes": "التحديث صار من داخل التطبيق: تنزيل مع شريط تقدم ثم التثبيت مباشرة."
+  "sha256": "0865bb4232a93423ce28bd1272c39745c1843dc6246556fc6b4f1f98e8a868af",
+  "notes": "الربط مثل Kage Media: يبحث بالاسم كما هو في TMDB وAniList. فاصل أسرع (المواسم عند الطلب، نسخة محفوظة من الرئيسية، روابط الحلقة التالية مبكراً). الصوت يعرض نسخ المصدر."
 }
