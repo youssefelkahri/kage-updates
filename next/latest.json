@@ -1,7 +1,7 @@
 {
-  "code": 36,
-  "name": "0.16.0",
+  "code": 38,
+  "name": "0.17.0",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "e1674494850d695f83b9be4a8cef2afd8bf5e5cc175277228c8688de851e1339",
-  "notes": "ثيم Sky بتصميم SkyStream، صفحة «اكتشف»، ثيم Kage Media، مشغل جديد وتحسينات."
+  "sha256": "bea06a950aa11ca8297f0b03170d62bb861beb13890941048758dd0ba6bc7758",
+  "notes": "الرئيسية وصفحة العمل بجزأين (الافتراضي والزجاجي)، قوائم المشغل الجديدة، متصفح جديد، زر الموقع، إصلاح Cloudflare للإضافات، تلفاز الافتراضي بقائمة علوية."
 }
