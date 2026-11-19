@@ -1,7 +1,7 @@
 {
-  "code": 137,
-  "name": "0.91.4",
+  "code": 138,
+  "name": "0.91.5",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "79c9de635acab536a7352ca2d54af56e6d9c822555b5a7997833d49963835557",
-  "notes": "المشغّل يبدأ بنسخة الترجمة العربية (arabic sub) قبل الدبلجة، ثم الصوت الأصلي."
+  "sha256": "05de3f766662aa06fcb666d0ff7eaddd9ea51c302e2b28b2a4597626932380cd",
+  "notes": "التلفاز: زر «الربط» و«تحديث» في صفحة العمل، سطر يبيّن هل العمل مربوط بالكتالوج، شعار العمل من الربط نفسه، وحركة ناعمة للبطاقات في الصفوف."
 }
