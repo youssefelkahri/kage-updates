@@ -1,7 +1,7 @@
 {
-  "code": 57,
-  "name": "0.19.9",
+  "code": 59,
+  "name": "0.20.1",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "ef839c85036c56d613e787b38303e1b43fc4266b0e2691ea248f0244fbab5e0a",
-  "notes": "البحث داخل مصدر واحد صار شبكة ملصقات. الربط يبدأ بالاسم وحده. التطبيق أخف بـ 10 MB."
+  "sha256": "068f504ae3f7306ab28592db38f7766559eb520fd91000173dfbe9dde4509547",
+  "notes": "تنزيل التحديث أسرع. السيرفرات المترجمة (Arabic Sub، مترجم) لا تشغّل ترجمة إضافية."
 }
