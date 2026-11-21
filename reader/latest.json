@@ -1,8 +1,8 @@
 {
-  "code": 23,
-  "name": "0.1.22",
-  "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/ElkahriReader.apk",
-  "sha256": "3018e80cf4b3d6fc798120d48f372b4c945aaff2d454ec7e787aa94f46632c5f",
-  "size": 4942840,
-  "notes": "حذف الفهرس القديم (كان يمحو الفصول)، كل أعمال المصدر في الرئيسية، التبويبات ثابتة تحت البحث، الفهرس يبدأ فور الفتح."
+  "code": 25,
+  "name": "1.0.0",
+  "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/MegaReader.apk",
+  "sha256": "2ce1d80c2d86ab6496360fbaa96231b6a76b8bfc1e59a8291acd43601bfa7b6f",
+  "size": 4909232,
+  "notes": "أول نسخة مستقرة: Mega Reader. الفهرس الجاهز وحده (حُذفت الفهرسة القديمة)، الرئيسية تظهر فور الفتح، الفلاتر على كل الأعمال، بطاقة «الفهرس» واحدة في البيانات."
 }
