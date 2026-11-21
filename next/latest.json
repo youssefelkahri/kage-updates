@@ -1,7 +1,7 @@
 {
-  "code": 65,
-  "name": "0.20.7",
+  "code": 66,
+  "name": "0.20.8",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "1e534b937d9b28d52268e6a3c0896e95cb908ddf818dc15f0c20063a7ae8ba35",
-  "notes": "حركة جديدة بين جزأي الرئيسية وصفحة العمل: الصفحة تصعد بنعومة مع الإصبع وتندمج في الصورة."
+  "sha256": "18cdea79cbed18a1b86442c013792050f362350f8dc0a42e794a2bc26af439bd",
+  "notes": "قوائم المشغل (الترجمة وغيرها) تعمل مع الريموت. بقيت ثيمات الزجاجي والافتراضي وسكاي وCrunchyroll فقط. تنظيف الكود."
 }
