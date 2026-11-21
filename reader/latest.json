@@ -1,8 +1,8 @@
 {
-  "code": 22,
-  "name": "0.1.21",
+  "code": 23,
+  "name": "0.1.22",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/ElkahriReader.apk",
-  "sha256": "df5a13faaec04e8937c770742b4d1bbeb5daeec52d0bb39ea50edbd404152854",
+  "sha256": "3018e80cf4b3d6fc798120d48f372b4c945aaff2d454ec7e787aa94f46632c5f",
   "size": 4942840,
-  "notes": "نسبة تحميل الفهرس ظاهرة (مصدر الرئيسية أولاً)، صفحة العمل لا تنتظر تحميل المصادر."
+  "notes": "حذف الفهرس القديم (كان يمحو الفصول)، كل أعمال المصدر في الرئيسية، التبويبات ثابتة تحت البحث، الفهرس يبدأ فور الفتح."
 }
