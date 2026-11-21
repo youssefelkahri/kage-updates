@@ -1,8 +1,8 @@
 {
-  "code": 19,
-  "name": "0.1.18",
+  "code": 20,
+  "name": "0.1.19",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/ElkahriReader.apk",
-  "sha256": "493b2cd85906309ec0f0d6c4fa2b8d74787dd55f271ef20306da2b8da9b1ed8d",
-  "size": 4942836,
-  "notes": "تبديل المصدر والتبويبات أسرع (قوائم خفيفة من الفهرس)، «أكمل من جهازي» يعيد الرفع إن تزامن مع GitHub."
+  "sha256": "392d8276576cab215f718cb0e45b8b362ea8870847e21886da99f9f3a8c394eb",
+  "size": 4942840,
+  "notes": "الفصول تظهر فوراً حتى أثناء تحميل الفهرس، تبديل المصدر والتبويبات أسرع، أعمال نسخ مانجا ليك القديمة تقرأ من فهرسه."
 }
