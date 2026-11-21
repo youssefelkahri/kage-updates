@@ -1,7 +1,7 @@
 {
-  "code": 75,
-  "name": "0.22.4-beta",
+  "code": 76,
+  "name": "0.22.5-beta",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/beta/KageBeta.apk",
-  "sha256": "c3ec1ece495d61b5677dcdb28aeae2732b460a251b4eb5c405a839fecdc5eca1",
-  "notes": "عودة مفتاح التوقيع الأصلي (إن ثبّتّ 0.22.3 احذفها مرة واحدة)."
+  "sha256": "07f36d9da7a44b3b5d959da2f3d233f110187bc09e4c09e2d7772c685382bf59",
+  "notes": "شريط المشغّل فوق الأزرار."
 }
