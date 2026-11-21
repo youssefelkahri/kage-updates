@@ -1,8 +1,8 @@
 {
-  "code": 25,
-  "name": "1.0.0",
+  "code": 26,
+  "name": "1.0.1",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/MegaReader.apk",
-  "sha256": "2ce1d80c2d86ab6496360fbaa96231b6a76b8bfc1e59a8291acd43601bfa7b6f",
-  "size": 4909232,
-  "notes": "أول نسخة مستقرة: Mega Reader. الفهرس الجاهز وحده (حُذفت الفهرسة القديمة)، الرئيسية تظهر فور الفتح، الفلاتر على كل الأعمال، بطاقة «الفهرس» واحدة في البيانات."
+  "sha256": "39a4417fec26111d2e83915874959ebd22c94939b72ff8436019450e6937272d",
+  "size": 5074604,
+  "notes": "أيقونة جديدة للتطبيق."
 }
