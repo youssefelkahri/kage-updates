@@ -1,8 +1,8 @@
 {
-  "code": 17,
-  "name": "0.1.16",
+  "code": 18,
+  "name": "0.1.17",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/ElkahriReader.apk",
-  "sha256": "33b8c7165d6945390d2849cb4dd640583f17f592d098d31e28df809c8c22d4c5",
+  "sha256": "5c6091260316300bc14525b91d0cb3faca7d29c83bcb6690ec70c4b5fcab92db",
   "size": 4942840,
-  "notes": "التحديث من داخل التطبيق يعمل، وتفعيل المالك بمفتاح GitHub."
+  "notes": "إصلاح رسالة «نسخة غير رسمية»، تفعيل المالك، التحديث من داخل التطبيق."
 }
