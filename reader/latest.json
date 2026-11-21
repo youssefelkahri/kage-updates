@@ -1,8 +1,8 @@
 {
-  "code": 20,
-  "name": "0.1.19",
+  "code": 21,
+  "name": "0.1.20",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/ElkahriReader.apk",
-  "sha256": "392d8276576cab215f718cb0e45b8b362ea8870847e21886da99f9f3a8c394eb",
+  "sha256": "aee7dcf842df4467e76217889a09bc1e0cd5fb042668e3bb092f3f7653f75139",
   "size": 4942840,
-  "notes": "الفصول تظهر فوراً حتى أثناء تحميل الفهرس، تبديل المصدر والتبويبات أسرع، أعمال نسخ مانجا ليك القديمة تقرأ من فهرسه."
+  "notes": "الفصول والمعلومات من الفهرس فوراً حتى أثناء تحديث الفهرس في الخلفية."
 }
