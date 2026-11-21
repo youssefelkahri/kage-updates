@@ -1,8 +1,8 @@
 {
-  "code": 15,
-  "name": "0.1.14",
+  "code": 16,
+  "name": "0.1.15",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/ElkahriReader.apk",
-  "sha256": "a338a6f1d8623dee42a93928fb2d8ffad712fd453b4f6ed261595875aefb007a",
+  "sha256": "ece941211fa57a12e54d8ceac24d52e3b797c799c1f723c3499e006c1212e73a",
   "size": 4942816,
-  "notes": "مانجا ليك ونسخه الأربع مصدر واحد ينتقل وحده بين الروابط، «تحديث متاح» عند الفتح، «أكمل من جهازي» في لوحة المالك."
+  "notes": "إصلاح تفعيل المالك (مفتاح GitHub)."
 }
