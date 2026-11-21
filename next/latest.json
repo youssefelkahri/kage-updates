@@ -1,7 +1,7 @@
 {
-  "code": 76,
-  "name": "0.22.5",
+  "code": 77,
+  "name": "0.22.6",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "d5f014fdc1af70854191c2da05c7cbca285b540dfd779c4e880ca8bfa830490f",
-  "notes": "شريط المشغّل فوق الأزرار."
+  "sha256": "dfbac34bffd1ac729cdfc761595007bc66e20299dfaa0f02eeec19b5ae392ac3",
+  "notes": "صور الرئيسية أوضح (ملصق الكتالوج) وأزرار أكبر، تصحيح نوع العمل (أفلام كانت تظهر «أنمي»)، اختيار الترجمة العربية تلقائياً عندما لا يكون الرابط مترجماً أو بصوت عربي."
 }
