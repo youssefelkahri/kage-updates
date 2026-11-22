@@ -7,7 +7,7 @@
   "disabled": false,
   "requireCode": false,
   "message": "",
-  "minCode": 152,
+  "minCode": 0,
   "graceDays": 3,
   "blockedDevices": [],
   "codes": {}
