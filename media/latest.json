@@ -1,7 +1,7 @@
 {
-  "code": 159,
-  "name": "1.1.9",
+  "code": 160,
+  "name": "1.2.0",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "528ece7b7dc34ffaef8c7c293e1db434c914e4d27660433106815843e51e870f",
-  "notes": "جدول الحلقات كما في Kage Media القديم، العد التنازلي للحلقة القادمة، الربط أسرع وأدق، تعليم المقدمة يدوياً، وشكل «شبكة» للرئيسية."
+  "sha256": "8b6c38706c83c040f6c5c1e8d17222ad91d495e462e9b750e51f972fe29a5835",
+  "notes": "لا نافذة «يطلب التحقق» بعد الآن، وصفحات الجدول والسجل والإعدادات من اليمين إلى اليسار."
 }
