@@ -1,7 +1,7 @@
 {
-  "code": 162,
-  "name": "1.2.2",
+  "code": 163,
+  "name": "1.2.3",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "0b746eee2646c8de5f90cd88885d462a7c66db384e59b6d035bf7e2d1332b2e1",
-  "notes": "إصلاح فاصل (عنوانه الجديد)، والتطبيق يتعلّم عنوان الموقع الجديد من المتصفح الداخلي تلقائياً."
+  "sha256": "5db7e4625de8a13fe7a7bb1cfe20561e0eebbdbcb7debeea1442f8ef8b40f39d",
+  "notes": "الواجهة بالإنجليزية (الإعدادات › المظهر › اللغة)، وحركة الغلاف صارت فورية. English interface: Settings › Look › Language."
 }
