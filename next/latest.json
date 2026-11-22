@@ -1,7 +1,7 @@
 {
-  "code": 153,
-  "name": "1.1.3",
+  "code": 155,
+  "name": "1.1.5",
   "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "756b4b1d8ef8d156096f9345127f2deffd61107ec41720638293c1233200ae31",
-  "notes": "«قائمتي» أسهل (اختيار القائمة وتراجع)، التحديث بالسحب لأسفل في كل الصفحات، وتحسينات."
+  "sha256": "374cca513dfc8fe973bb53727c365d8956ae8eb0f92d040e6896f11e4d6eea31",
+  "notes": "إصلاح مصادر مساحة الأطفال، «قائمتي» أسهل، التحديث بالسحب لأسفل، وإزالة مصدر MovieBoxIN."
 }

@@ -1,7 +1,7 @@
 {
-  "code": 153,
-  "name": "1.1.3",
+  "code": 155,
+  "name": "1.1.5",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "032de3fea79350198bfe35503a76c0fbbc2407cbbbadc34b7d43b3611072762f",
-  "notes": "«قائمتي» أسهل (اختيار القائمة وتراجع)، التحديث بالسحب لأسفل في كل الصفحات، وتحسينات."
+  "sha256": "b836e7d83c98ecc759fdb781745873cf8ab7354795b51e27056f6e23d409215c",
+  "notes": "إصلاح مصادر مساحة الأطفال، «قائمتي» أسهل، التحديث بالسحب لأسفل، وإزالة مصدر MovieBoxIN."
 }
