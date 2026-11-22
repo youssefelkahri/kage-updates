@@ -1,7 +1,7 @@
 {
-  "code": 152,
-  "name": "1.1.2",
+  "code": 153,
+  "name": "1.1.3",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "3ae5e86611affbbb1295b450374970e45d4b50286a792944becd0514147e32fe",
-  "notes": "التنزيل في كل الثيمات ويكمل في الخلفية، دليل بداية للمستخدمين الجدد، صف «مختارات Kage»، وردود على أفكاركم."
+  "sha256": "032de3fea79350198bfe35503a76c0fbbc2407cbbbadc34b7d43b3611072762f",
+  "notes": "«قائمتي» أسهل (اختيار القائمة وتراجع)، التحديث بالسحب لأسفل في كل الصفحات، وتحسينات."
 }
