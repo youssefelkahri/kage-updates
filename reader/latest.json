@@ -1,8 +1,8 @@
 {
-  "code": 26,
-  "name": "1.0.1",
+  "code": 27,
+  "name": "1.0.2",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/reader/MegaReader.apk",
-  "sha256": "39a4417fec26111d2e83915874959ebd22c94939b72ff8436019450e6937272d",
-  "size": 5074604,
-  "notes": "أيقونة جديدة للتطبيق."
+  "sha256": "0ffe4bb7347237454fec4c9b43fe1759190c75f6d646c171e175d4e545e611ec",
+  "size": 5074608,
+  "notes": "إصلاح: «لا توجد مصادر مفعّلة» عند العودة للتطبيق بعد مدة."
 }
