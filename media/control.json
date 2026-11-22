@@ -24,7 +24,7 @@
       "MkFasel"
     ],
     "defaults": {
-      "theme": ""
+      "theme": "default"
     }
   },
   "disabled": false,
