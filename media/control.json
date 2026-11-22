@@ -22,7 +22,10 @@
       "Carateen",
       "MkMovieBox",
       "MkFasel"
-    ]
+    ],
+    "defaults": {
+      "theme": "default"
+    }
   },
   "disabled": false,
   "requireCode": false,
