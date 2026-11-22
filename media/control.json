@@ -30,7 +30,8 @@
     ],
     "defaults": {
       "theme": "default"
-    }
+    },
+    "pupd": 1795368663499
   },
   "disabled": false,
   "requireCode": false,
