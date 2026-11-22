@@ -11,7 +11,18 @@
           "at": 1795364506848
         }
       ]
-    }
+    },
+    "srcmsg": {},
+    "srcauto": [],
+    "order": [
+      "Akwam",
+      "MkAnime3rb",
+      "Yacine TV",
+      "MovieBoxIN",
+      "Carateen",
+      "MkMovieBox",
+      "MkFasel"
+    ]
   },
   "disabled": false,
   "requireCode": false,
