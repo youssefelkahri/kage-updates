@@ -10,13 +10,5 @@
   "minCode": 152,
   "graceDays": 3,
   "blockedDevices": [],
-  "codes": {
-    "0093ad96412b1f5a36e7652fb3bfbe189d38d54bb20de1ebde7cef3488e2fa07": {
-      "name": "hraira",
-      "max": 1,
-      "blocked": false,
-      "created": 1794840674147,
-      "devices": {}
-    }
-  }
+  "codes": {}
 }
