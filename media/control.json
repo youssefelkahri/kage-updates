@@ -38,16 +38,17 @@
     "srcauto": [],
     "order": [
       "Carateen",
-      "Akwam",
       "EgyWatch",
       "AlooyTv",
       "Netflix",
       "LodyNet",
       "MkMovieBox",
       "MovieBoxIN",
+      "Akwam",
       "Yacine TV",
       "MkAnime3rb",
-      "MkFasel"
+      "MkFasel",
+      "5TV"
     ],
     "defaults": {
       "theme": "default"
