@@ -71,7 +71,12 @@
     "pupd": 1795368663499,
     "mine": [
       "ba314ea441dc"
-    ]
+    ],
+    "shot": {
+      "d": "ba314ea441dc",
+      "id": "1795481416717",
+      "at": 1795481416717
+    }
   },
   "disabled": false,
   "requireCode": false,
