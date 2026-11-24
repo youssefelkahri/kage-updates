@@ -87,7 +87,10 @@
           "3b9e56bfbfbe"
         ]
       }
-    ]
+    ],
+    "tags": {
+      "eda93cfbf4fc": "مختبِر"
+    }
   },
   "disabled": false,
   "requireCode": false,
