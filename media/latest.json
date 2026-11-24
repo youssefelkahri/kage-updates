@@ -1,7 +1,7 @@
 {
-  "code": 163,
-  "name": "1.2.3",
+  "code": 193,
+  "name": "1.5.8",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "e9952c6bd704c0630b5a150ac1f95f13a708d33a37cc1dfac0cecc6b14f1136e",
-  "notes": "الواجهة بالإنجليزية (الإعدادات › المظهر › اللغة)، وحركة الغلاف صارت فورية. English interface: Settings › Look › Language."
+  "sha256": "f1a9354a70ec63f4a0ffc916f33fa4c521e7a44a0ce9fe3b7f09bb2ebf06bfb8",
+  "notes": "مزامنة برمز بدون حساب بين الهاتف والتلفاز واللوحي (مع QR)، تصميم وحركة ريموت جديدة للتلفاز، قوائم المكتبة (أشاهده / أريد مشاهدته / أكملته / المفضلة)، فتح أسرع، وإصلاح أخطاء التشغيل."
 }
