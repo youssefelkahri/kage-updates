@@ -1,7 +1,7 @@
 {
-  "code": 212,
-  "name": "1.7.7",
+  "code": 213,
+  "name": "1.7.8",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "29a55b1df69fbf8da2ed0ca5d4381f8358d75e4d2ae727b293a88b05ec790daf",
-  "notes": "البحث أخف وأسرع: صور المواقع كما هي، والشاشة لا تُعاد كتابتها مع كل نتيجة. سجل الأخطاء في التلفاز: الريموت يتنقل بين الأخطاء، وزر «أرسل إلى هاتفي» برمز QR. الإضافات لم تعد تُجهَّز كلها بعد كل تحديث."
+  "sha256": "807524d6ba02b277cfa8e5980f443fdc31d76aaa0af2d4c8df66c9ee363053cf",
+  "notes": "بحث أسرع وأخف بطريقة CloudStream: كل المصادر معاً، والنتائج تُجهَّز في الخلفية وتظهر أولاً بأول. إضافات أكثر تعمل الآن (مثل AniSnatch وXDMovies)."
 }
