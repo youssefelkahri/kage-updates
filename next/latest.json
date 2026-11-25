@@ -1,7 +1,7 @@
 {
- "code": 228,
- "name": "1.9.3",
+ "code": 229,
+ "name": "1.9.4",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "9c56ffe7aef9e5944f8cdc34caaa14af6e43a8f25d2482617ef8612b866ee501",
- "notes": "الواجهة البسيطة للتلفاز (الإعدادات ← الأداء ← واجهة التلفاز)"
+ "sha256": "e8035166fb0bb732b5eb448fbdd8b1a841e077a3d60a2f96b74a6f4d9917d1cb",
+ "notes": "صفحة الذاكرة وقياساتها في سجل الأخطاء"
 }
