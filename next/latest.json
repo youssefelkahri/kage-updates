@@ -1,7 +1,7 @@
 {
- "code": 231,
- "name": "1.9.6",
+ "code": 232,
+ "name": "1.9.7",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "f38469b8e57de605e104cf35893bbdf5e981825b043e493c6b94cd1374340d5c",
- "notes": "البحث يتوقف عند الخروج ويُحفظ 10 دقائق، منظم المهام في التلفاز، قائمة ثابتة في الواجهة البسيطة"
+ "sha256": "e8fbaa71edb65a8807982448eb0cbd7b4fd776c2a5151791deae127d869840f5",
+ "notes": "البحث 3 مصادر افتراضياً، إضافات Kage ثم عبود أولاً، حذف الكاش والبيانات"
 }
