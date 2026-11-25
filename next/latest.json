@@ -1,7 +1,7 @@
 {
- "code": 232,
- "name": "1.9.7",
+ "code": 233,
+ "name": "1.9.8",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "e8fbaa71edb65a8807982448eb0cbd7b4fd776c2a5151791deae127d869840f5",
- "notes": "البحث 3 مصادر افتراضياً، إضافات Kage ثم عبود أولاً، حذف الكاش والبيانات"
+ "sha256": "185195a0dbbcce7fe440f978280bfa762fbe6c028f265ce82f4db1f385ed8000",
+ "notes": "تحسينات بلا ثمن رجعت: بلا معالجة صور، صور الكتالوج فقط في السلايدر وصفحة العمل، البحث عند «بحث»، زر الصوت، رئيسية هادئة"
 }
