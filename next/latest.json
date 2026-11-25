@@ -1,7 +1,7 @@
 {
- "code": 230,
- "name": "1.9.5",
+ "code": 231,
+ "name": "1.9.6",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "052c7ba1a65dbfa817e06e7310a17604fa79dc7ec9fb333a6770dace978fb86b",
- "notes": "رجوع إلى 1.7.2 مع اتصال Kage Media ودعم الإضافات والواجهة البسيطة وعدد مصادر البحث"
+ "sha256": "f38469b8e57de605e104cf35893bbdf5e981825b043e493c6b94cd1374340d5c",
+ "notes": "البحث يتوقف عند الخروج ويُحفظ 10 دقائق، منظم المهام في التلفاز، قائمة ثابتة في الواجهة البسيطة"
 }
