@@ -1,7 +1,7 @@
 {
-  "code": 214,
-  "name": "1.7.9",
+  "code": 215,
+  "name": "1.8.0",
   "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "17cb1edd1b341d41923e042a70084e517808a8233ec913992ab7faa27852ba2f",
-  "notes": "البحث أخف على أجهزة التلفاز بأندرويد 12 أو أقدم. ومن 1.7.8: بحث أسرع بطريقة CloudStream، وإضافات أكثر تعمل (مثل AniSnatch وXDMovies)."
+  "sha256": "a6f0f101d270cf5cf12f6caaeb6581aaf3d261880cf406f0f1b1a9cf0497b78d",
+  "notes": "البحث مثل CloudStream: صفحات أكثر في آخر كل صف، «عرض الكل» لكل مصدر، ترتيب حسب مصادرك، إخفاء CAM، والسجل يتذكر النوع. على التلفاز: البحث بزر «بحث»، الميكروفون، اقتراحات أثناء الكتابة، اختيار المصادر، وأخف على الأجهزة القديمة."
 }
