@@ -1,7 +1,7 @@
 {
- "code": 223,
- "name": "1.8.8",
+ "code": 224,
+ "name": "1.8.9",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "68f2bff3a70f541f22f4dda5e3ad78daebb009ec701aeece052092a0af53f799",
- "notes": "بحث في كل المصادر معاً بترتيب ثابت، إصلاحات 5TV وCNCVerse، عمل أقل في الخلفية"
+ "sha256": "c737267c9bb30f76c251fbfcb84af39548d537aef1331ed595ac3454f2271e99",
+ "notes": "البحث في التلفاز مثل كلاود ستريم تماماً"
 }
