@@ -1,7 +1,7 @@
 {
- "code": 229,
- "name": "1.9.4",
+ "code": 230,
+ "name": "1.9.5",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "e8035166fb0bb732b5eb448fbdd8b1a841e077a3d60a2f96b74a6f4d9917d1cb",
- "notes": "صفحة الذاكرة وقياساتها في سجل الأخطاء"
+ "sha256": "052c7ba1a65dbfa817e06e7310a17604fa79dc7ec9fb333a6770dace978fb86b",
+ "notes": "رجوع إلى 1.7.2 مع اتصال Kage Media ودعم الإضافات والواجهة البسيطة وعدد مصادر البحث"
 }
