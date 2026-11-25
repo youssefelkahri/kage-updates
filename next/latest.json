@@ -1,7 +1,7 @@
 {
- "code": 234,
- "name": "1.9.9",
+ "code": 235,
+ "name": "2.0.0",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "bc5a4fccc8870077ca83edcb44230776ee06f28b8b9434807e5274d707a0a94a",
- "notes": "تنظيف الكود: حذف الواجهة القديمة والأجزاء غير المستعملة"
+ "sha256": "7e98c680a4b1ce80db9998c1db1e7b7914b64dcea8af5f5d6ad0c5c92ab66781",
+ "notes": "إصلاحات خفية: فحص الإضافات مرة واحدة، البحث لا يتمهل بلا داعٍ، لا أعمال ثقيلة أثناء المشاهدة، منظم المهام لا يتوقف"
 }
