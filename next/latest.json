@@ -1,7 +1,7 @@
 {
- "code": 235,
- "name": "2.0.0",
- "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "7e98c680a4b1ce80db9998c1db1e7b7914b64dcea8af5f5d6ad0c5c92ab66781",
- "notes": "إصلاحات خفية: فحص الإضافات مرة واحدة، البحث لا يتمهل بلا داعٍ، لا أعمال ثقيلة أثناء المشاهدة، منظم المهام لا يتوقف"
+  "code": 236,
+  "name": "2.0.1",
+  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
+  "sha256": "ffd82afc9fefb3bafedc25bd9071b50628bf5d40356e64b3230efc3f1a2d45c6",
+  "notes": "التلفاز: خانة البحث لا تفتح الكيبورد إلا بالضغط على OK؛ اختيار كلمة من سجل البحث لا يُضيّع الريموت."
 }
