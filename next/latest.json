@@ -1,7 +1,7 @@
 {
- "code": 227,
- "name": "1.9.2",
+ "code": 228,
+ "name": "1.9.3",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "e059f86fdf9abf6e82b2130f2d91f302ff04fdecd9d8f3806d23018da6a85ce7",
- "notes": "أداء: زر لكل ما يزيده Kage على كلاود ستريم"
+ "sha256": "9c56ffe7aef9e5944f8cdc34caaa14af6e43a8f25d2482617ef8612b866ee501",
+ "notes": "الواجهة البسيطة للتلفاز (الإعدادات ← الأداء ← واجهة التلفاز)"
 }
