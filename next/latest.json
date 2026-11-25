@@ -1,7 +1,7 @@
 {
-  "code": 163,
-  "name": "1.2.3",
-  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
-  "sha256": "5db7e4625de8a13fe7a7bb1cfe20561e0eebbdbcb7debeea1442f8ef8b40f39d",
-  "notes": "الواجهة بالإنجليزية (الإعدادات › المظهر › اللغة)، وحركة الغلاف صارت فورية. English interface: Settings › Look › Language."
+ "code": 223,
+ "name": "1.8.8",
+ "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
+ "sha256": "68f2bff3a70f541f22f4dda5e3ad78daebb009ec701aeece052092a0af53f799",
+ "notes": "بحث في كل المصادر معاً بترتيب ثابت، إصلاحات 5TV وCNCVerse، عمل أقل في الخلفية"
 }
