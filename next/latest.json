@@ -1,7 +1,7 @@
 {
- "code": 224,
- "name": "1.8.9",
+ "code": 225,
+ "name": "1.9.0",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "c737267c9bb30f76c251fbfcb84af39548d537aef1331ed595ac3454f2271e99",
- "notes": "البحث في التلفاز مثل كلاود ستريم تماماً"
+ "sha256": "4819d48c3b4423ef6f4b1de7195943315eefde7c636d65da7678bb09c0531b1a",
+ "notes": "التلفاز أخف مثل كلاود ستريم، والبحث يشمل كل المصادر من أول مرة"
 }
