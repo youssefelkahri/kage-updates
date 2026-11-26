@@ -1,0 +1,7 @@
+{
+  "code": 243,
+  "name": "2.0.8",
+  "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/admin/KageAdmin.apk",
+  "sha256": "b3ad75e60d855559855c286ebdcbe540af1ef2aa97f68a044ce3e87b26e9adc3",
+  "notes": "قاعدة البيانات: الأجهزة والتقارير والرسائل (حذف وتعديل يصلان للأجهزة)، صفحة المصادر الجديدة (بحث، تصفية، أضف مصدراً أو مستودعاً للجميع، احذف للجميع)."
+}
