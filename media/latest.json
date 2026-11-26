@@ -1,7 +1,7 @@
 {
- "code": 238,
- "name": "2.0.3",
- "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
- "sha256": "b0f8d3d08867c46f8f999c73e6c64f06448fb504f2dc654da87630e0f61c4868",
- "notes": "ثيم جديد للتلفاز «جمرة» للتجربة (الإعدادات ← المظهر): بلا شريط، زر القائمة أو رجوع يفتح لوحة التنقل، رئيسية بصورة كاملة ورف واحد يتبدّل في مكانه، صفحة عمل بحلقات عمودية، بحث بلوحة حروف خاصة، ومكتبة جديدة."
+  "code": 239,
+  "name": "2.0.4",
+  "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
+  "sha256": "ca3ea6d0852a61ef6c386d3337e780d2fb01ca87f428035a0513eb02b99f7d5a",
+  "notes": "مزامنة جديدة: كل تغيير يُرسل وحده ويصل للأجهزة الأخرى فوراً تقريباً؛ التلفاز يزامن عند الفتح وبعد إغلاق المشغل. البحث على التلفاز: الكيبورد يفتح بالضغط على OK فقط."
 }
