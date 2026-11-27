@@ -1,7 +1,7 @@
 {
- "code": 261,
- "name": "2.0.26",
+ "code": 262,
+ "name": "2.0.27",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "ab5f1fadb0a97a14530b7135d9b8f6294ce826c92d5d1871a59d45d8b360ab75",
- "notes": "التثبيت الأول يضم MovieBox · ترتيب مصادر Kage الجديد"
+ "sha256": "4b4e2393a2c7a1d4da27c18efd4cca2c12b3c9cf1802c298aaac37d9cb9f4905",
+ "notes": "صفحة العمل: المصادر تعمل فقط عند الحاجة · 6 مصادر الأكثر استعمالا · «ابحث في كل المصادر» منظم"
 }
