@@ -1,7 +1,7 @@
 {
- "code": 260,
- "name": "2.0.25",
+ "code": 261,
+ "name": "2.0.26",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "2e134950cf481765f3e628b4b629ac3b18082ec673df3bede80cd954506d2dc7",
- "notes": "صفحة العمل على التلفاز: الحلقات ثابتة في الأسفل · الرئيسية: الصورة تملأ الشاشة وتظليل خفيف والبطاقات أسفل · رجوع يغلق القائمة ورجوع مرتين بسرعة للخروج"
+ "sha256": "ab5f1fadb0a97a14530b7135d9b8f6294ce826c92d5d1871a59d45d8b360ab75",
+ "notes": "التثبيت الأول يضم MovieBox · ترتيب مصادر Kage الجديد"
 }
