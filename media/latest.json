@@ -1,7 +1,7 @@
 {
-  "code": 245,
-  "name": "2.0.10",
-  "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
-  "sha256": "11106fc312ee4bb81e2d55e764644ca4850ef05322aa0fc1dc5a94062b5a17d9",
-  "notes": "مشغّل جديد: أيقونات في الأعلى، شريطا الصوت والإضاءة على الجانبين، وصف واحد تحت الشريط (الترجمة والجودة | السابقة والتشغيل والتالية | الحلقات والملاءمة والنافذة الصغيرة). التلفاز: نفس الترتيب بأزرار بأسمائها، والريموت يبدأ على زر التشغيل."
+ "code": 268,
+ "name": "2.0.33",
+ "url": "https://raw.githubusercontent.com/youssefelkahri/kage-updates/main/media/KageMedia.apk",
+ "sha256": "1e37bf6ef91955d6453a2630a64ece935a9cda68f567ed0d2941232f5ff20144",
+ "notes": "واجهة التلفاز الجديدة بشكل Nuvio · صفحة العمل والرئيسية بنفس الأعلى · البحث في المصادر ثلاثة في كل مرة · اختيار مصدر يوقف البحث فوراً · إلغاء الربط · elCinema · التلفاز متجاوب مع كل الشاشات"
 }
