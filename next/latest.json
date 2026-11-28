@@ -1,7 +1,7 @@
 {
- "code": 269,
- "name": "2.0.34",
+ "code": 270,
+ "name": "2.0.35",
  "url": "https://github.com/youssefelkahri/kage-updates/raw/main/next/Kage.apk",
- "sha256": "cb36bc09f7c72ba2de7f09d4f4fda45cd00ab750fabe561d6bfe2bcc71e1df40",
- "notes": "وضع الكتالوج متاح في Kage Media أيضاً"
+ "sha256": "6b69b7e5fae10f61bae5391990c9e19426eb1c460894a9d348a1c3e71728f9ac",
+ "notes": "بحث الكتالوج بالترتيب الإنجليزي، ربط أدق، إلغاء الربط، مصادر أسرع، لا تنزيل على التلفاز، حركة السلايدر"
 }
