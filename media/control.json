@@ -110,8 +110,8 @@
     "srcmsg": {},
     "srcauto": [],
     "order": [
-      "AlooyTv",
       "MovieBox",
+      "AlooyTv",
       "MkFasel",
       "StarDima",
       "Anikage",
@@ -196,7 +196,8 @@
     },
     "remove": {
       "MkMovieBoxWeb": 1795708274620
-    }
+    },
+    "orderManual": true
   },
   "disabled": false,
   "requireCode": false,
